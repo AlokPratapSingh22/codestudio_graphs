@@ -1,4 +1,5 @@
-## [Roots of the tree having minimum height](https://www.codingninjas.com/codestudio/problems/roots-of-the-tree-having-minimum-height_1235193?topList=top-graphs-interview-questions)
+## Minimum Height Trees
+#### [Leetcode](https://leetcode.com/problems/minimum-height-trees/)    [CodeStudio](https://www.codingninjas.com/codestudio/problems/roots-of-the-tree-having-minimum-height_1235193?topList=top-graphs-interview-questions)
 
 Problem Statement
 You are given an undirected Tree having 'N' nodes. The nodes are numbered from 1 to 'N'. Your task is to find the sorted list of all such nodes, such that rooting the tree on that node gives the minimum height possible of the given tree.
